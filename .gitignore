@@ -1,0 +1,10 @@
+*/Log
+*/target
+*/.settings
+*/.gitignore
+*/target
+*/.DS_Store
+*/.classpath
+*/.project
+*/.Build
+*/.idea
